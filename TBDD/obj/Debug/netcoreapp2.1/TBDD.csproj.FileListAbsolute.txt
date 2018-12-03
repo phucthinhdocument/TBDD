@@ -1,0 +1,16 @@
+/home/phucthinh/Downloads/TBDDD/TBDD/bin/Debug/netcoreapp2.1/TBDD.deps.json
+/home/phucthinh/Downloads/TBDDD/TBDD/bin/Debug/netcoreapp2.1/TBDD.runtimeconfig.json
+/home/phucthinh/Downloads/TBDDD/TBDD/bin/Debug/netcoreapp2.1/TBDD.runtimeconfig.dev.json
+/home/phucthinh/Downloads/TBDDD/TBDD/bin/Debug/netcoreapp2.1/TBDD.dll
+/home/phucthinh/Downloads/TBDDD/TBDD/bin/Debug/netcoreapp2.1/TBDD.pdb
+/home/phucthinh/Downloads/TBDDD/TBDD/obj/Debug/netcoreapp2.1/TBDD.csprojAssemblyReference.cache
+/home/phucthinh/Downloads/TBDDD/TBDD/obj/Debug/netcoreapp2.1/TBDD.csproj.CoreCompileInputs.cache
+/home/phucthinh/Downloads/TBDDD/TBDD/obj/Debug/netcoreapp2.1/TBDD.RazorAssemblyInfo.cache
+/home/phucthinh/Downloads/TBDDD/TBDD/obj/Debug/netcoreapp2.1/TBDD.RazorAssemblyInfo.cs
+/home/phucthinh/Downloads/TBDDD/TBDD/obj/Debug/netcoreapp2.1/TBDD.AssemblyInfoInputs.cache
+/home/phucthinh/Downloads/TBDDD/TBDD/obj/Debug/netcoreapp2.1/TBDD.AssemblyInfo.cs
+/home/phucthinh/Downloads/TBDDD/TBDD/obj/Debug/netcoreapp2.1/TBDD.RazorTargetAssemblyInfo.cache
+/home/phucthinh/Downloads/TBDDD/TBDD/obj/Debug/netcoreapp2.1/TBDD.dll
+/home/phucthinh/Downloads/TBDDD/TBDD/obj/Debug/netcoreapp2.1/TBDD.pdb
+/home/phucthinh/Downloads/TBDDD/TBDD/bin/Debug/netcoreapp2.1/TBDD.xml
+/home/phucthinh/Downloads/TBDDD/TBDD/obj/Debug/netcoreapp2.1/TBDD.xml
